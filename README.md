@@ -26,6 +26,14 @@ Requisitos Técnicos:
 * Utiliza módulos estándar de Python como json para importar y exportar tareas.
 * Utiliza una conexión a una base de datos sql para tener persistencia de datos (ideal SQLAlchemy).
 
+*Requerimientos:
+
+ tener instalado las librerias: tkinter, sqlite3
+
+*Proceso de ejecucion:*
+ ejecutar en la consola el siguiente comando estando dentro del directorio donde hallas descargado el .py: python gestor_tareas.py
+ (solo requiere descargar el .py)
+
 *Instalacion:
  Instale el archivo gestor_tareas.py
  
@@ -69,12 +77,4 @@ Requisitos Técnicos:
  cargar tarea:
  
  ![image](https://github.com/user-attachments/assets/98f23562-67fc-4bff-a47e-d3b205b434cc)
-
-*Requerimientos:
-
- tener instalado las librerias: tkinter, sqlite3
-
-*Proceso de ejecucion:
- ejecutar en la consola el siguiente comando estando dentro del directorio donde hallas descargado el .py: python gestor_tareas.py
- (solo requiere descargar el .py)
   
