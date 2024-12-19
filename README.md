@@ -28,9 +28,11 @@ Requisitos Técnicos:
 
 *Instalacion:
  Instale el archivo gestor_tareas.py
+ 
  ![image](https://github.com/user-attachments/assets/19bc617b-c58d-4cfc-917d-5e1ddb16b093)
 
  descomprima el archivo zip
+ 
  ![image](https://github.com/user-attachments/assets/7cf965f8-18e9-44ef-b7b4-2025f5b8a45f)
 
  abre la terminal en el directorio:
@@ -39,30 +41,37 @@ Requisitos Técnicos:
 
  y ejecutar el siguiente comando:
  python gestor_tareas.py
+ 
  ![image](https://github.com/user-attachments/assets/deb58c90-b8cd-4aef-b7c9-558b31f116ca)
 
 
  Funcionamiento:
  pon titulo y descripcion a la tarea
+ 
  ![image](https://github.com/user-attachments/assets/0d659609-4b22-459e-97b2-57cb9470342f)
 
  agregar la tarea
  ![image](https://github.com/user-attachments/assets/cbcf2281-b815-4376-be1d-985ce1cbea18)
 
  Marca como completa
+ 
  ![image](https://github.com/user-attachments/assets/b172cd8a-69b8-45bb-abc1-71c694435aba)
 
  guardar tarea:
+ 
  ![image](https://github.com/user-attachments/assets/0a25e590-26b1-4bad-90bc-71cd2eb6b8c4)
  ![image](https://github.com/user-attachments/assets/e205120d-864c-4a86-a7b0-901de8d038cd)
 
  eliminar tarea:
+ 
  ![image](https://github.com/user-attachments/assets/dcf10ef9-17be-4d76-ba0d-0adf6eab6a81)
 
  cargar tarea:
+ 
  ![image](https://github.com/user-attachments/assets/98f23562-67fc-4bff-a47e-d3b205b434cc)
 
 *Requerimientos:
+
  tener instalado las librerias: tkinter, sqlite3
 
 *Proceso de ejecucion:
