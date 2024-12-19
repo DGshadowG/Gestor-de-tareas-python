@@ -59,6 +59,7 @@ Requisitos Técnicos:
  ![image](https://github.com/user-attachments/assets/0d659609-4b22-459e-97b2-57cb9470342f)
 
  agregar la tarea
+ 
  ![image](https://github.com/user-attachments/assets/cbcf2281-b815-4376-be1d-985ce1cbea18)
 
  Marca como completa
