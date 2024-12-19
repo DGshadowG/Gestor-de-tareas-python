@@ -28,6 +28,10 @@ Requisitos Técnicos:
 
 *Instalacion:
  Instale el archivo gestor_tareas.py
+ ![image](https://github.com/user-attachments/assets/19bc617b-c58d-4cfc-917d-5e1ddb16b093)
+
+
+ 
 
 *Requerimientos:
  tener instalado las librerias: tkinter, sqlite3
